@@ -39,15 +39,15 @@ PyTorch, OpenCV, NumPy, Matplotlib, Pillow, Tkinter
 
 Installation:
 
-Bash
-
 pip install torch numpy opencv-python pillow matplotlib
+
 Usage:
 
-Bash
 
 python retro2.py
+
 What to Watch For (The GUI)
+
 The Graphs (The Heartbeat):
 
 Red Line (Surprise): Spikes when you move.
